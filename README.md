@@ -9,10 +9,6 @@
 <p>📫 How to reach me:innocent:</p>
 
 <p align='center'>
- 
-  <a href="EfthimiosVlahos.vlahos89@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>&nbsp
   
   <a href="https://www.linkedin.com/in/efthimios-vlahos/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
