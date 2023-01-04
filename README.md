@@ -4,7 +4,7 @@
 <p align='center'>
   My name is <b>Efthimios Vlahos</b>.<br/>
   I am a graduate student at SUNY Stony Brook University and an aspiring <b>Data Scientist/ML Engineer.</b><br>
-  Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>Sklearn</b>, <b>Pandas</b>, <b>numpy</b>, <b>Matplotlib</b>, <b>Tensorflow</b>,and <b>Keras</b>
+  Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>Sklearn</b>, <b>Pandas</b>, <b>Numpy</b>, <b>Matplotlib</b>, <b>Tensorflow</b>,and <b>Keras</b>
 </p>
 <p>📫 How to reach me:innocent:</p>
 
