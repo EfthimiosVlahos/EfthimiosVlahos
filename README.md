@@ -3,26 +3,19 @@
 <p align="center"> 👋 </p>
 <p align='center'>
   My name is <b>Efthimios Vlahos</b>.<br/>
-  I am a graduate student at SUNY Stony Brook University and an aspiring <b>Data Scientist/ML Engineer.</b><br>
-  As a highly motivated and analytical Data Scientist, I am passionate about utilizing my skills in data analysis, statistics, and machine learning to extract meaningful insights and solve complex business problems. With a strong foundation in programming languages like Python and R, I possess hands-on experience in data cleansing, transformation, visualization, and modeling. I am committed to staying updated with the latest advancements in the field of data science and excited to contribute my skills to a dynamic and fast-paced organization
+  I am a highly motivated graduate student pursuing a Master's degree in Data Science at SUNY Stony Brook University, with a strong passion for utilizing cutting-edge technologies and techniques to solve complex business problems. As an aspiring Data Scientist and Machine Learning Engineer, I possess hands-on experience with Python, SQL, Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow, and AWS. Through my academic and professional experiences, I have honed my skills in data preprocessing, feature engineering, model selection, and optimization. I am committed to staying updated with the latest developments in the field of data science and applying my skills to drive business growth and innovation.
 </p>
-<p>📫 How to reach me:innocent:</p>
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/efthimios-vlahos/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>&nbsp
-  
-</p>
+
 
 My Interests :heart_eyes:<br>
 
 -   Python
--   Machine learning
--   Deep learning
--   Data science
--   Data analysis
+-   Machine Learning
+-   Deep Learning
+-   Data Science
+-   Data Analysis
+-   Data Engineering
 
 ## Languages and software that I know and/or use:
 
@@ -44,7 +37,6 @@ My Interests :heart_eyes:<br>
 
 <img align="left" alt="Streamlit" width="36px" src= "https://user-images.githubusercontent.com/88608935/187243256-b5b07944-acca-44e4-b1f5-e78e1d0d9376.png"/>
 
-<img align="left" alt="Shap" width="36px" src= "https://shap-lrjball.readthedocs.io/en/latest/_static/shap_logo.png"/>
 
 
 <br/>
