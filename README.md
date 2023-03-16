@@ -4,7 +4,7 @@
 <p align='center'>
   My name is <b>Efthimios Vlahos</b>.<br/>
   I am a graduate student at SUNY Stony Brook University and an aspiring <b>Data Scientist/ML Engineer.</b><br>
-  Currently learning and working with <b>Python</b>, <b>SQL</b>, <b>Sklearn</b>, <b>Pandas</b>, <b>Numpy</b>, <b>Matplotlib</b>, <b>Tensorflow</b>,and <b>Keras</b>
+  As a highly motivated and analytical Data Scientist, I am passionate about utilizing my skills in data analysis, statistics, and machine learning to extract meaningful insights and solve complex business problems. With a strong foundation in programming languages like Python and R, I possess hands-on experience in data cleansing, transformation, visualization, and modeling. I am committed to staying updated with the latest advancements in the field of data science and excited to contribute my skills to a dynamic and fast-paced organization
 </p>
 <p>📫 How to reach me:innocent:</p>
 
