@@ -3,7 +3,7 @@
 <p align="center"> 👋 </p>
 <p align='center'>
   My name is <b>Efthimios Vlahos</b>.<br/>
-  I am a highly motivated graduate student pursuing a Master's degree in Data Science at SUNY Stony Brook University, with a strong passion for utilizing cutting-edge technologies and techniques to solve complex business problems. As an aspiring Data Scientist and Machine Learning Engineer, I possess hands-on experience with Python, SQL, Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow, and AWS. Through my academic and professional experiences, I have honed my skills in data preprocessing, feature engineering, model selection, and optimization. I am committed to staying updated with the latest developments in the field of data science and applying my skills to drive business growth and innovation.
+  I am a highly motivated graduate student pursuing a Master's degree in Applied Mathematics an dStatitsics at SUNY Stony Brook University, with a strong passion for utilizing cutting-edge technologies and techniques to solve complex business problems. As an aspiring Data Scientist and Machine Learning Engineer, I possess hands-on experience with Python, SQL, Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow, and AWS. Through my academic and professional experiences, I have honed my skills in data preprocessing, feature engineering, model selection, and optimization. I am committed to staying updated with the latest developments in the field of data science and applying my skills to drive business growth and innovation.
 </p>
 
 
