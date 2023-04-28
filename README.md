@@ -8,7 +8,7 @@
 
 
 
-My Interests :heart_eyes:<br>
+My Interests:<br>
 
 -   Python
 -   Machine Learning
