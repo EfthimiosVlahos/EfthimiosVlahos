@@ -3,19 +3,19 @@
 <p align="center"> 👋 </p>
 <p align='center'>
   My name is <b>Efthimios Vlahos</b>.<br/>
-  I am a highly motivated graduate student pursuing a Master's degree in Applied Mathematics and Statitsics at SUNY Stony Brook University, with a strong passion for utilizing cutting-edge technologies and techniques to solve complex business problems. As an aspiring Data Scientist and Machine Learning Engineer, I possess hands-on experience with Python, SQL, Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow, and AWS. Through my academic and professional experiences, I have honed my skills in data preprocessing, feature engineering, model selection, and optimization. I am committed to staying updated with the latest developments in the field of data science and applying my skills to drive business growth and innovation.
-</p>
+I am currently a second year grad student at SUNY Stony Brook University pursuing a degree in Computational Applied Mathematics and an advanced certificate in Data Science with a Bachelors degree in Physics & Mathematics already obtained. 
+Over five years of hands-on experience in Python and SQL.
+Over two years of practical experience in Power BI and one year in Tableau. 
+Over one year of experience in Hadoop and PySpark.
+Advanced knowledge in machine learning models in Python scikit-learn and deep learning frameworks.
 
+Core skills:
+Python, R, C++, SQL, MySQL, PostgreSQL, Scikit-learn, Numpy, Matplotlib, Pandas, Power BI, Tableau TensorFlow, Machine Learning, Statistics, Mathematics, Data Analysis, Data Wrangling, Data Engineering
 
-
-My Interests:<br>
-
--   Python
--   Machine Learning
--   Deep Learning
--   Data Science
--   Data Analysis
--   Data Engineering
+Dashboard: https://www.datascienceportfol.io/EfthimiosVlahos
+Portfolio Website: https://efthimiosvlahos.github.io/index.html
+Kaggle: https://www.kaggle.com/efthimiosvlahoskitas
+GitHub: https://github.com/EfthimiosVlahos
 
 ## Languages and software that I know and/or use:
 
