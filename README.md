@@ -4,7 +4,7 @@
 <p align='center'>
   My name is <b>Efthimios Vlahos</b>.<br/>
 
-Data Scientist with a strong educational background and extensive research anything to do with Data Science. I recently completed my graduate studies at SUNY Stony Brook University, where I earned a degree in Applied Mathematics and Statistics. Prior to that, I obtained a Bachelor's degree in Physics & Mathematics, further solidifying my foundation in quantitative disciplines.
+Data Scientist and recent graduated grad student at SUNY Stony Brook University, where I earned a degree in Applied Mathematics and Statistics with a specialization in Data Science. Prior to that, I obtained a Bachelor's degree in Physics & Mathematics, further solidifying my foundation in quantitative disciplines.
 
 My expertise spans over five years of hands-on experience in Python and SQL, which I have effectively utilized to analyze and manipulate large datasets. I have also honed my skills in data visualization through over two years of practical experience in Power BI, as well as one year of proficiency in Tableau, enabling me to create impactful and visually appealing data presentations.
 
