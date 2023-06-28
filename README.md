@@ -9,9 +9,8 @@ Data Scientist and recent grad student at SUNY Stony Brook University, where I e
 My expertise spans over five years of hands-on experience in Python and SQL, which I have effectively utilized to analyze and manipulate large datasets. I have also honed my skills in data visualization through over two years of practical experience in Power BI, as well as one year of proficiency in Tableau, enabling me to create impactful and visually appealing data presentations. Moreover, my knowledge extends to advanced machine learning models, as I have a deep understanding of Python's scikit-learn library and possess expertise in leveraging deep learning frameworks to develop sophisticated predictive models.
 
 Core skills:
-Python, R, C++, SQL, MySQL, PostgreSQL, Scikit-learn, Numpy, Matplotlib, Pandas, Power BI, Tableau TensorFlow, Machine Learning, Statistics, Mathematics, Data Analysis, Data Wrangling, Data Engineering
+Python, R, C++, SQL, MySQL, PostgreSQL, Scikit-learn, Numpy, Matplotlib, Pandas, Power BI, Tableau, TensorFlow, Machine Learning, Statistics, Mathematics, Data Analysis, Data Wrangling, Data Engineering, ETL, ELT
 
-Dashboard: https://www.datascienceportfol.io/EfthimiosVlahos
 Portfolio Website: https://efthimiosvlahos.github.io/index.html
 Kaggle: https://www.kaggle.com/efthimiosvlahoskitas
 GitHub: https://github.com/EfthimiosVlahos
