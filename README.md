@@ -6,7 +6,7 @@
 
 Data Scientist and recent grad student at SUNY Stony Brook University, where I earned a degree in Applied Mathematics and Statistics with a specialization in Data Science. Prior to that, I obtained a Bachelor's degree in Physics & Mathematics, further solidifying my foundation in quantitative disciplines.
 
-My expertise spans over seven years of hands-on experience in Python, which I have effectively utilized to analyze and manipulate large datasets. My knowledge extends to advanced machine learning models, as I have a deep understanding of Python's scikit-learn library and possess expertise in leveraging deep learning frameworks to develop sophisticated predictive models.
+My expertise spans over seven years of hands-on experience in Python and over 3 years experience with SQL, which I have effectively utilized to analyze and manipulate large datasets. My knowledge extends to advanced machine learning models, as I have a deep understanding of Python's scikit-learn library and possess expertise in leveraging deep learning frameworks to develop sophisticated predictive models.
 
 Core skills:
 Python, R, C++, SQL, MySQL, PostgreSQL,NoSQL, Scikit-learn, Numpy, Matplotlib, Pandas, Power BI, Tableau, TensorFlow, Machine Learning, Statistics, Mathematics, Data Analysis, Data Wrangling, Data Engineering, ETL, ELT
