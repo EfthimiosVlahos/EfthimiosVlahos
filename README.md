@@ -15,9 +15,9 @@
 ### 🛠 Core Skills:
 - Python, R, C++
 - SQL, MySQL, PostgreSQL, NoSQL
-- Scikit-learn, Numpy, Matplotlib, Pandas
-- Power BI, Tableau
-- TensorFlow, Machine Learning, Statistics
+- Scikit-learn, Numpy, Matplotlib, Pandas, PySpark
+- Power BI, Tableau, Looker
+- TensorFlow, Machine Learning, Statistics, Hypothesis Testing, A/B Testing
 - Data Analysis, Data Wrangling, Data Engineering
 - ETL, ELT
 
