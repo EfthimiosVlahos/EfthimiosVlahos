@@ -5,7 +5,7 @@
 <p align='center'>
   🎓 <strong>Data Scientist and Alumnus of SUNY Stony Brook University</strong> 🎓<br/>
 
-  Hello, hope all is well! I hold a graduate degree in Applied Mathematics and Statistics with a specialization in Data Science. Before diving into the world of Data Science, I strengthened my foundations with a Bachelor's degree in Physics & Mathematics.
+  Hello, thank you for visiting my github! I hold a graduate degree in Applied Mathematics and Statistics with a specialization in Data Science. Before diving into the world of Data Science, I strengthened my foundations with a Bachelor's degree in Physics & Mathematics.
 
   With more than seven years of hands-on experience in Python and over three years in SQL, I have honed my skills in analyzing and manipulating large datasets. I take pride in my advanced machine learning capabilities, specializing in Python's scikit-learn library, and leveraging deep learning frameworks to develop cutting-edge predictive models.
 </p>
