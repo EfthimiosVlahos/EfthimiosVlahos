@@ -30,6 +30,11 @@
 
 ---
 
+### Certifications
+- **Deep Learning Specialization from DeepLearning.AI**
+- **Google Advanced Data Analytics Certificate**
+- **IBM Data Engineering Certificate**
+---
 <img align="left" alt="Python" width="36px" src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
 <img align="left" alt="R" width="36px" src="https://www.r-project.org/logo/Rlogo.svg"/>
 <img align="left" alt="Git" width="32px" src="https://user-images.githubusercontent.com/55111154/100549956-74280980-329c-11eb-8b47-62b3ea97e5ca.png"/>
