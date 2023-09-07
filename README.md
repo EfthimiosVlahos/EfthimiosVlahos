@@ -30,7 +30,7 @@
 
 ---
 
-### Certifications
+### 💪 Certifications
 - **Deep Learning Specialization from DeepLearning.AI**
 - **Google Advanced Data Analytics Certificate**
 - **IBM Data Engineering Certificate**
