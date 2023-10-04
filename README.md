@@ -26,7 +26,7 @@
 ### 🌐 Portfolio and Contributions:
 - [LinkedIn](https://www.linkedin.com/in/efthimios-vlahos/)
 - [Portfolio Website](https://efthimiosvlahos.github.io/index.html)
-- [HackerRank Profile]([https://www.kaggle.com/efthimiosvlahoskitas](https://www.hackerrank.com/efthimios_vlahos))
+- [HackerRank Profile](https://www.hackerrank.com/efthimios_vlahos)
 
 ---
 
