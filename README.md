@@ -45,7 +45,6 @@
 <img align="left" alt="Sklearn" width="36px" src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png"/>
 <img align="left" alt="TensorFlow" width="36px" src="https://www.tensorflow.org/images/tf_logo_social.png"/>
 <img align="left" alt="PyTorch" width="36px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
-<img align="left" alt="Keras" width="36px" src="https://keras.io/img/logo.png"/>
 <img align="left" alt="Tableau" width="36px" src="https://www.tableau.com/themes/custom/tableau_www/favicon.ico"/>
 
 <br/>
