@@ -13,7 +13,7 @@
 ---
 
 ### 🛠 Core Skills:
-- **Programming**: Advanced in Python (numpy, pandas, scipy, statsmodels, scikit-learn, nltk, tensorflow, keras, jax, trax, pytorch, pyspark), SQL (postgresql, mysql, bigquery, snowflake), R, OOP, APIs, REST-APIs
+- **Programming**: Advanced in Python (numpy, pandas, scipy, statsmodels, scikit-learn, nltk, tensorflow, keras, jax, trax, pytorch, pyspark), SQL (postgresql, mysql, bigquery, snowflake), R, OOP,FAST-APIs
 - **Data Science**: Machine Learning, Deep Learning, NLP, Mathematics & Statistics, Hypothesis Testing, A/B Testing, ETL, ELT, Hadoop, Google Sheets, Excel, Matplotlib, Seaborn, Tableau, Power BI, Looker, Flask, Django, React, Node.js
 - **Cloud & Infrastructure**: AWS, Microsoft Azure, Docker, Airflow, Kubernetes
 
