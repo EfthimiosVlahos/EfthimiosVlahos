@@ -13,9 +13,9 @@
 ---
 
 ### 🛠 Core Skills:
-- **Programming**: Advanced in Python (numpy, pandas, scipy, statsmodels, scikit-learn, nltk, tensorflow, keras, jax, trax, pytorch, pyspark), SQL (postgresql, mysql, bigquery, snowflake), R, OOP, FAST-APIs
-- **Data Science**: Machine Learning, Deep Learning, NLP, Mathematics & Statistics, Hypothesis Testing, A/B Testing, ETL, ELT, Hadoop, Google Sheets, Excel, Matplotlib, Seaborn, Tableau, Power BI, Looker, Flask, Django, React, Node.js
-- **Cloud & Infrastructure**: AWS, Microsoft Azure, Docker, Airflow, Kubernetes
+- **Programming, Cloud Computing & Big Data**: Python(TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, NLTK, Trax, JAX), R, C++, Bash, SQL(PostgreSQL, MySQL, BigQuery), AWS(SageMaker, EC2, S3, Lambda), GCP(Compute Engine, Vertex AI, Auto ML, DataProc, DataFlow), Apache(Spark, Hadoop, Beam, Hive, Airflow)
+- **Machine Learning**: Supervised & Unsupervised Learning, Deep Learning(CNNs, RNNs, GRUs, LSTM, Transformers), NLP, Predictive Modeling, Time Series Analysis, Feature Engineering, Model Evaluation, Model Tuning, Validation Methods, Optimization Techniques, Hyperparameter Tuning
+- **DevOps, Data Visualization & MLOps**: Docker, Kubernetes, MLFlow, Kubeflow, RESTful, Tableau, Power BI, Looker, Git, GitHub
 
 ---
 
@@ -29,6 +29,8 @@
 
 ### 💪 Certifications
 - **Deep Learning Specialization from DeepLearning.AI**
+- **Machine Learning Engineering for Production (MLOps) Specialization from DeepLearning.AI**
+- **DeepLearning.AI TensorFlow Developer from DeepLearning.AI**
 - **NLP Specialization from DeepLearning.AI**
 - **Google Advanced Data Analytics Certificate**
 - **IBM Data Engineering Certificate**
