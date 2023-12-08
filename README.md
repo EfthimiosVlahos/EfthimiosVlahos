@@ -3,12 +3,26 @@
 <h2 align="center">Welcome! I'm Efthimios Vlahos</h2>
 
 <p align='center'>
-  🎓 <strong>Data Scientist and Alumnus of SUNY Stony Brook University</strong> 🎓<br/>
+  🎓 <strong>Data Analyst At Microsoft and Alumnus of SUNY Stony Brook University</strong> 🎓<br/>
 
-  Thank you for visiting my github! I hold a MSc degree in Applied Mathematics and Statistics with a specialization in Data Science. Before diving into the world of Data Science, I strengthened my foundations with a Bachelor's degree in Physics & Mathematics with a minor in Computer Science!
+  I'm [Efthimios Vlahos](https://efthimiosvlahos.github.io/index.html), an aspiring ML/Ai Engineer with a strong background in applied mathematics, statistics, and physics. I'm currently a Data Analyst 🤓 at [Microsoft](https://www.microsoft.com/en-us/) organization. When I'm not immersed in the world of data, you can find me indulging in a few other passions: soccer, gym, and classical philosophy mostly.
 
-  With more than seven years of hands-on experience in Python, R, SQL and in general Data Science, I have honed my skills in analyzing and manipulating large datasets. I take pride in my advanced machine learning capabilities, specializing in Python's scikit-learn library, and leveraging deep learning frameworks to develop cutting-edge predictive models. I would classify myself as a continously learner and I truly love what I am doing and hope to do in the future! 
+  <img align="right" alt="GIF" src="./assets/img/sun.gif?raw=true" width="430" height="270" />
+  
+<br/>
+<br/>
+<br/>
+
+- 👨🏽‍💻 I’m interested in MLops, data science, deep learning, NLP, AI and more.
+- 🌱 I’m currently learning [Go](https://go.dev/) and a lot of other tools.
+- 💬 Ask me about anything, I am happy to help.
+- [📫](mailto:vlahos89@gmail.com) 👈 Send me an email if you want to reach me out!.
+- [📝](https://mattborghi.github.io/CV/) 👈 Here you cand find my résumé.
+
+
+<br/>
 </p>
+
 
 ---
 
@@ -26,27 +40,25 @@
 - [HackerRank Profile](https://www.hackerrank.com/efthimios_vlahos)
 
 ---
+### Languages and Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLFlow](https://img.shields.io/badge/MLFlow-0194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-00C7B7.svg?style=for-the-badge&logo=kubeflow&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 💪 Certifications
-- **Deep Learning Specialization from DeepLearning.AI**
-- **Machine Learning Engineering for Production (MLOps) Specialization from DeepLearning.AI**
-- **DeepLearning.AI TensorFlow Developer from DeepLearning.AI**
-- **NLP Specialization from DeepLearning.AI**
-- **Google Advanced Data Analytics Certificate**
-- **IBM Data Engineering Certificate**
----
-<img align="left" alt="Python" width="36px" src="https://user-images.githubusercontent.com/55111154/100546857-8ba9c700-3289-11eb-9627-ae469441946b.png"/>
-<img align="left" alt="R" width="36px" src="https://www.r-project.org/logo/Rlogo.svg"/>
-<img align="left" alt="Git" width="32px" src="https://user-images.githubusercontent.com/55111154/100549956-74280980-329c-11eb-8b47-62b3ea97e5ca.png"/>
-<img align="left" alt="VSCode" width="36px" src="https://user-images.githubusercontent.com/55111154/100549504-41304680-3299-11eb-811c-570aae79deba.png"/>
-<img align="left" alt="Pandas" width="36px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7YWmxNmbuzSB7RyPFlM99xnJMAre6eEj1OhL9EYo&s"/>
-<img align="left" alt="NumPy" width="36px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/>
-<img align="left" alt="SQL" width="36px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"/>
-<img align="left" alt="Sklearn" width="36px" src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png"/>
-<img align="left" alt="TensorFlow" width="36px" src="https://www.tensorflow.org/images/tf_logo_social.png"/>
-<img align="left" alt="PyTorch" width="36px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
-<img align="left" alt="Tableau" width="36px" src="https://www.tableau.com/themes/custom/tableau_www/favicon.ico"/>
 
-<br/>
-<br/>
-<br/>
