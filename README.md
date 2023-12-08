@@ -28,7 +28,7 @@
 ### 🛠 Core Skills:
 - **Programming, Cloud Computing & Big Data**: Python(TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, NLTK, Trax, JAX), R, C++, Bash, SQL(PostgreSQL, MySQL, BigQuery), AWS(SageMaker, EC2, S3, Lambda), GCP(Compute Engine, Vertex AI, Auto ML, DataProc, DataFlow), Apache(Spark, Hadoop, Beam, Hive, Airflow)
 - **Machine Learning**: Supervised & Unsupervised Learning, Deep Learning(CNNs, RNNs, GRUs, LSTM, Transformers), NLP, Predictive Modeling, Time Series Analysis, Feature Engineering, Model Evaluation, Model Tuning, Validation Methods, Optimization Techniques, Hyperparameter Tuning
-- **DevOps, Data Visualization & MLOps**: Docker, Kubernetes, MLFlow, Kubeflow, RESTful, Tableau, Power BI, Looker, Git, GitHub
+- **DevOps, Data Visualization & MLOps**: Docker, Kubernetes, MLflow, Kubeflow, DagsHub, Mage, Tableau, Power BI, Looker, Git, GitHub
 
 ---
 
