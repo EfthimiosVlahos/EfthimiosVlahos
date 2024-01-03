@@ -37,8 +37,7 @@
 ### 🌐 Portfolio and Contributions:
 - [LinkedIn](https://www.linkedin.com/in/efthimios-vlahos/)
 - [Portfolio Website](https://efthimiosvlahos-github-lgjxbzcw7-efthimiosvlahos-projects.vercel.app/)
-- [Kaggle](https://www.kaggle.com/efthimiosvlahoskitas)
-- [HackerRank Profile](https://www.hackerrank.com/efthimios_vlahos)
+- [LeetCode](https://leetcode.com/Efthimios_vlahos/)
 
 ---
 ### Languages and Tools
