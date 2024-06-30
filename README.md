@@ -28,9 +28,15 @@
 ---
 
 ### 🛠 Core Skills:
-- **Programming, Cloud Computing & Big Data**: Python(TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, NLTK, Trax, JAX), R, C++, Bash, SQL(PostgreSQL, MySQL, BigQuery), AWS(SageMaker, EC2, S3, Lambda), GCP(Compute Engine, Vertex AI, Auto ML, DataProc, DataFlow), Apache(Spark, Hadoop, Beam, Hive, Airflow)
-- **Machine Learning**: Supervised & Unsupervised Learning, Deep Learning(CNNs, RNNs, GRUs, LSTM, Transformers), NLP, Predictive Modeling, Time Series Analysis, Feature Engineering, Model Evaluation, Model Tuning, Validation Methods, Optimization Techniques, Hyperparameter Tuning
-- **DevOps, Data Visualization & MLOps**: Docker, Kubernetes, MLflow, Kubeflow, DagsHub, Mage, Tableau, Power BI, Looker, Git, GitHub
+- **Advanced Programming Proficiency**: Expert in Python, R, and SQL with functional knowledge in C++, Java, Bash, and MATLAB. Specialized in utilizing Python for advanced data science and machine learning applications.
+
+- **Machine Learning & Data Science**: Skilled in deploying and tuning complex ML models using TensorFlow, Keras, PyTorch, and Scikit-Learn. Experienced in natural language processing with NLTK, SpaCy, and Hugging Face, and predictive modeling with advanced statistical tools.
+
+- **Cloud Computing & Big Data Platforms**: Expertise in AWS, GCP, and Azure ecosystems, including services like AWS SageMaker for ML deployment, Azure Kubernetes Service for scalable applications, and GCP BigQuery for big data analytics. Proficient in managing large datasets using Databricks, Apache Spark, and Snowflake.
+
+- **MLOps & DevOps Practices**: Deep understanding of MLOps and DevOps frameworks, involving Docker, Kubernetes, and MLflow for lifecycle management of machine learning models. Proficient in using CI/CD pipelines with GitHub Actions, Argo CD, and Jenkins to enhance software development processes.
+
+- **Data Visualization & Business Intelligence**: Adept in translating complex datasets into actionable insights with Tableau, Power BI, and Looker, enhancing business decision-making and reporting capabilities.
 
 ---
 
@@ -47,18 +53,13 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLFlow](https://img.shields.io/badge/MLFlow-0194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-00C7B7.svg?style=for-the-badge&logo=kubeflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
