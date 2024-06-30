@@ -14,7 +14,6 @@
 <br/>
 
 - 👨🏽‍💻 I’m interested in MLops, data science, deep learning, NLP, AI and more.
-- 💬 Ask me about anything, I am happy to help.
 - [📫](mailto:vlahos89@gmail.com) 👈 Send me an email if you want to reach me out!.
 - [📝](https://efthimiosvlahos-github-io.vercel.app/about) 👈 Here you cand find my résumé.
 
