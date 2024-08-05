@@ -3,9 +3,9 @@
 <h2 align="center">Welcome! I'm Efthimios Vlahos</h2>
 
 <p align='center'>
-  🎓 <strong>Data Analyst At Microsoft and Alumnus of SUNY Stony Brook University</strong> 🎓<br/>
+  🎓 <strong> Machine Learning Engineer At Cornerstone Building Brands and Alumnus of SUNY Stony Brook University</strong> 🎓<br/>
 
-  I'm [Efthimios Vlahos](https://efthimiosvlahos-github-io.vercel.app/), an aspiring ML/AI Engineer with a strong background in applied mathematics, statistics, computer science, and physics. I'm currently 🤓 at [Microsoft](https://www.microsoft.com/en-us/) organization. When I'm not immersed in the world of data, you can find me indulging in a few other passions: soccer, gym, and classical philosophy mostly.
+  I'm [Efthimios Vlahos](https://efthimiosvlahos-github-io.vercel.app/), an ML Engineer with a strong background in applied mathematics, statistics, computer science, and physics. I'm currently working at [Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/) as an Machine Learning Engineer. When I'm not immersed in the world of data, you can find me indulging in a few other passions: soccer, gym, and classical philosophy mostly.
 
   <img align="right" alt="GIF" src="./assets/img/sun.gif?raw=true" width="430" height="270" />
   
