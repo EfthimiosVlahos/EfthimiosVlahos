@@ -5,7 +5,7 @@
 <p align='center'>
   🎓 <strong> Machine Learning Engineer At Cornerstone Building Brands and Alumnus of SUNY Stony Brook University</strong> 🎓<br/>
 
-  I'm [Efthimios Vlahos](https://efthimiosvlahos-github-io.vercel.app/), an ML Engineer with a strong background in applied mathematics, statistics, computer science, and physics. I'm currently working at [Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/) as an Data Scientist. When I'm not immersed in the world of data, you can find me indulging in a few other passions: soccer, gym, and classical philosophy mostly.
+  I'm [Efthimios Vlahos](https://efthimiosvlahos-github-io.vercel.app/), an ML Engineer with a strong background in applied mathematics, statistics, computer science, and physics. I'm currently working at [Con Edison](https://www.coned.com/en/our-energy-future/our-energy-vision/where-we-are-going/reliable?gad_source=1&gad_campaignid=22594125964&gbraid=0AAAAADvfsegWmY26axghXwwyB9JUrJaP1&gclid=Cj0KCQjwxo_CBhDbARIsADWpDH51W61FqETo47-z8w6J9kWXYjW6NmQ7QWBD_2bxHt4xdTLN7T-AIikaAvNuEALw_wcB&gclsrc=aw.ds) as an Data Scientist. When I'm not immersed in the world of data, you can find me indulging in a few other passions: soccer, gym, and classical philosophy mostly.
 
   <img align="right" alt="GIF" src="./assets/img/sun.gif?raw=true" width="430" height="270" />
   
