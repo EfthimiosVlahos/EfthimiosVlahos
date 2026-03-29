@@ -34,17 +34,11 @@ Currently building intelligent systems at **Alliant Insurance Services**. Previo
 <!-- Stats -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EfthimiosVlahos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EfthimiosVlahos&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6600&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=FFFFFF&dates=888888" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=EfthimiosVlahos&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6600&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=FFFFFF&dates=888888" width="55%" />
 
 </div>
 
 <br/>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EfthimiosVlahos&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
